@@ -1,2 +1,2 @@
 # odin-recipes
-Project1 in the road to complete the Odin project
+Project-1 on the road to completing the Odin Project
